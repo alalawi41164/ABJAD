@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Abjad Numerology and Astrology",
+  "description": "منصة احترافية لحساب الجمل الكبير وعلم الحرف، لتحديد طبائع الأسماء وتحليل تواريخ الميلاد فلكياً وحسابياً بمعايير دقيقة ودعم الذكاء الاصطناعي لتوليد قراءات مفصلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
